@@ -10,7 +10,8 @@
     <link type="text/css" href="{{static_resource:file=style/lightbox.min.css}}" rel="stylesheet" />
     {{with_local_resource:glob=*.css, as=file, all_files=True}}
     <link type="text/css" href="{{$file}}" rel="stylesheet" />{{end}}
-    <link type="image/png" href="{{static_resource:file=images/mtg-16.png}}" rel="icon" />
+    <!-- <link type="image/png" href="{{static_resource:file=images/mtg-16.png}}" rel="icon" /> -->
+    <link type="image/png" href="{{static_resource:file=images/mtg-16-dot.png}}" rel="icon" />
     <title>{{$local->title}}</title>
 </head>
 <body>

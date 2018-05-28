@@ -7,6 +7,9 @@
 # VS code
 .vscode/
 
+# Image editing
+*.paint
+
 # Byte-compiled / optimized / DLL files
 __pycache__
 *.py[cod]
