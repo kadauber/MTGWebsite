@@ -6,6 +6,8 @@ http://mattputnam.org/MTGWebsite/site
 
 _(disclaimer: may not be synced with this repo at any given time)_
 
+Forked by Kimberly Dauber for further development (and hopefully deployment).
+
 Driven by a [custom template system](https://github.com/MattPutnam/htmpl) written in Python.  Here's how you do common tasks (note that there's an implicit
 "run `make.py`" at the end of each):
 
