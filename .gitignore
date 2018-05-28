@@ -1,5 +1,11 @@
+# OSX artifacts
+.DS_STORE
+
 # PyCharm
 .idea/
+
+# VS code
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__
